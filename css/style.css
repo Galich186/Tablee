@@ -1,1 +1,11 @@
-Я Артём 
+  table {
+    width: auto;
+    height: auto;
+    border-collapse: collapse;
+  }
+
+  td {
+      border: 2px solid black;
+      height: 35px;
+      width: 170px;
+  }
